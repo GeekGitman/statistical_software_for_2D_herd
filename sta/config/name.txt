@@ -1,0 +1,18 @@
+vorticity
+Nearest neighbor distance
+Density
+Divergence
+Average velocity(angle)
+Density angular distribution
+Polarization
+Average velocity(value)
+Order parameter
+Animation
+Local average velocity
+Integrated conditional density
+Correlation
+Cluster
+Shear rate
+Number angular distribution
+Velocity gradient
+Pairwise distribution

@@ -1,0 +1,376 @@
+
+./log/log_2016911.dat1213
+Traceback (most recent call last):
+  File "run.py", line 6, in <module>
+    thisapp=app.StaApp()
+  File "app.py", line 27, in __init__
+    wx.App.__init__(self,redirect,self.logfile)
+  File "dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+  File "dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+  File "app.py", line 36, in OnInit
+    TopFrame=mainFrame.topframe(parent=None,name=self.conf['appName'])
+  File "mainFrame.py", line 40, in __init__
+    self.split()
+  File "mainFrame.py", line 26, in split
+    self.pdown=ControlPanel.ControlPanel(self.sp,-1,self.pup,self)
+  File "ControlPanel.py", line 35, in __init__
+    self.ReadList()
+  File "ControlPanel.py", line 21, in ReadList
+    f=open("./config/name.txt",'w')
+IOError: [Errno 13] 权限不够: './config/name.txt'
+
+./log/log_2016911.dat1442
+#open#
+path: I:\statistics_sheepherd\sta\data\sample.csv
+#cal_averageV#
+useless data++
+useless data++
+time: 0.581003847314
+100
+I:\statistics_sheepherd\sta\bitmap
+#cal_vor#
+useless data++
+useless data++
+<type 'exceptions.ValueError'> : Format "jpg" is not supported.
+Supported formats: eps, pdf, pgf, png, ps, raw, rgba, svg, svgz.
+
+./log/log_2016911.dat1457
+#open#
+path: I:\statistics_sheepherd\sta\data\sample.csv
+#cal_polarization#
+useless data++
+useless data++
+time: 0.591725630826
+100
+I:\statistics_sheepherd\sta\bitmap
+#cal_vor#
+useless data++
+useless data++
+#cal_neardist#
+useless data++
+useless data++
+#cal_density#
+useless data++
+useless data++
+#cal_dv#
+useless data++
+useless data++
+#cal_averageV#
+useless data++
+useless data++
+#cal_densityAngular#
+useless data++
+useless data++
+#cal_polarization#
+useless data++
+useless data++
+#cal_averageV#
+useless data++
+useless data++
+#cal_order#
+useless data++
+useless data++
+#draw_sheep#
+useless data++
+useless data++
+#cal_localAverV#
+useless data++
+useless data++
+#cal_inteCondition#
+useless data++
+useless data++
+#cal_order#
+useless data++
+useless data++
+#cal_order#
+useless data++
+useless data++
+#cal_cluster#
+useless data++
+useless data++
+I:\statistics_sheepherd\sta\cal.py:522: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if cluster_centers == None:
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+450 450 450
+#cal_Sv
+#cal_Gv#
+#cal_localAverV#
+useless data++
+useless data++
+#cal_numberAngular#
+useless data++
+useless data++
+#cal_Gv#
+#cal_localAverV#
+useless data++
+useless data++
+#cal_pairDist#
+useless data++
+useless data++
+Traceback (most recent call last):
+  File "I:\statistics_sheepherd\sta\ControlPanel.py", line 63, in OnReHandler
+    Info ,result=self.result()
+TypeError: 'NoneType' object is not iterable
+#cal_polarization#
+useless data++
+useless data++
+time: 0.59771089471
+100
+#Saveas#
+Cancel
+#Set#
+Traceback (most recent call last):
+  File "I:\statistics_sheepherd\sta\mainFrame.py", line 216, in OnSet
+    sdg=SetDialog(self,'setting')
+  File "I:\statistics_sheepherd\sta\settingDialog.py", line 10, in __init__
+    self.sizer=wx.GridSizer(-1,2)
+  File "C:\Python27\lib\site-packages\wx-3.0-msw\wx\_core.py", line 15196, in __init__
+    _core_.GridSizer_swiginit(self,_core_.new_GridSizer(*args, **kwargs))
+wx._core.PyAssertionError: C++ assertion "rows >= 0 && cols >= 0" failed at ..\..\src\common\sizer.cpp(1373) in wxGridSizer::wxGridSizer(): 
