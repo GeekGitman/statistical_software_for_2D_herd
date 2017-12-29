@@ -11,7 +11,7 @@ You need these packages to build it successgully:
 * Matplotlib (Please use 'pip install')
 * wxpython >=2.8
 
-By the way, it is recomended to install Anaconda in advance.
+By the way, it is recomended to install **Anaconda** in advance.
 
 #### Run
 Run in terminal:
