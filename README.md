@@ -1,6 +1,6 @@
 ### Analyse herd behaviors
 ---
-The folder contains Python source code for this sofware. For Linux/MacOS/Windows.
+The folder contains Python source code for this sofware. Compatible with Linux/MacOS/Windows.
 
 #### Environment
 You need these packages to build it successgully:
