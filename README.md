@@ -4,11 +4,13 @@ The folder contains Python source code for this sofware. Compatible with Linux/M
 
 #### Environment
 You need these packages to build it successgully:
-    * Python2.7
-    * Numpy >=1.6.0
-    * Scipy >=0.15.0
-    * Matplotlib (Please use 'pip install')
-    * wxpython >=2.8
+
+* Python2.7
+* Numpy >=1.6.0
+* Scipy >=0.15.0
+* Matplotlib (Please use 'pip install')
+* wxpython >=2.8
+
 By the way, it is recomended to install Anaconda in advance.
 
 #### Run
